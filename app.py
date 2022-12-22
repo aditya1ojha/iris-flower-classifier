@@ -37,3 +37,5 @@ if btn:
 		st.image("iris_versicolor.jpg")
 	else:	
 		st.image("iris_virginica.jpg")
+		
+st.caption("Made by - Aditya Ojha and Kushal Kachari")
